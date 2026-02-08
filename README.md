@@ -46,7 +46,7 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: your.email@example.com
+- 📧 Email: rambabubevara004@gmail.com
 - 💬 WhatsApp: https://wa.me/919391898634
 
 ---
