@@ -1,5 +1,5 @@
 # mrrambo04
-<h1 align="center">Hi 👋, I'm Ram Bevara</h1>
+<h1 align="center">Hi 👋, I'm Rambabu Bevara</h1>
 <h3 align="center">Data Analyst | Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -83,7 +83,7 @@ https://mrambo04.github.io/rambevara.github.io/
 ---
 
 ## 📫 Contact
-- 📧 Email: your.email@example.com  
+- 📧 Email: rambabubevara004@gmail.com  
 - 💬 WhatsApp: https://wa.me/919391898634  
 
 ---
