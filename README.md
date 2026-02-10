@@ -97,27 +97,11 @@ https://mrambo04.github.io/rambevara.github.io/
 
 
 
-name: Generate Snake Animation
+---
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+## 🐍 Contribution Graph
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: mrambo04
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: github-contribution-grid-snake
-          path: dist
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrambo04/mrambo04/output/github-contribution-grid-snake.svg" />
+</p>
 
