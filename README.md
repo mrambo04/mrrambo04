@@ -1,6 +1,10 @@
 # mrrambo04
-<h1 align="center">Hi 👋, I'm Rambabu Bevara</h1>
-<h3 align="center">Data Analyst | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ram Bevara</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Power+BI;NLP+%7C+Deep+Learning;Building+Data-Driven+Solutions" />
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rambabu-bevara-/">
