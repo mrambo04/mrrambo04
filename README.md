@@ -94,9 +94,9 @@ https://mrambo04.github.io/rambevara.github.io/
 
 ⭐ *Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me.*
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrambo04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-
-
----
 
 
