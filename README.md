@@ -76,12 +76,13 @@ https://mrambo04.github.io/rambevara.github.io/
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrambo04&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrambo04&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrambo04" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrambo04&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -94,18 +95,15 @@ https://mrambo04.github.io/rambevara.github.io/
 
 ⭐ *Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me.*
 
-## 📊 GitHub Stats
+
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrambo04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/mrambo04/mrambo04/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrambo04&theme=tokyonight&hide_border=true" />
-</p>
-
-
-
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrambo04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
