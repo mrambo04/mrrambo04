@@ -93,20 +93,14 @@ https://mrambo04.github.io/rambevara.github.io/
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me.*
-
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrambo04/mrambo04/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrambo04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my work and connect with me.*
+
+
+---
 
 
 
