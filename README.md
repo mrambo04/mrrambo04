@@ -34,7 +34,7 @@
 
 ## 🛠️ Skills & Tools
 
-### 🔹 Programming & Data
+### 🔹 Programming & Data 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
