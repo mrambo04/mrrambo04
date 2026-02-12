@@ -30,7 +30,7 @@
 - 🧠 Strong in data cleaning, visualization & model building
 - 🎯 Actively seeking **Data Analyst / Junior Data Scientist** roles
 
----
+--- 
 
 ## 🛠️ Skills & Tools
 
