@@ -1,6 +1,6 @@
 # mrrambo04
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Ram%20Bevara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Rambabu%20Bevara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Rambabu Bevara</h1>
 <h3 align="center">Data Analyst | Machine Learning Enthusiast</h3>
