@@ -20,7 +20,7 @@ I am a passionate **Data Analyst & Machine Learning Enthusiast** with hands-on e
 - 🧠 Worked on **NLP & Deep Learning projects**
 - 🚀 Deployed apps using **Streamlit**
 - 🎯 Actively seeking **Data Analyst / Junior Data Scientist roles**
-
+ 
 ---
 
 ## 🛠️ Tech Stack
