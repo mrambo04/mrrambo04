@@ -22,7 +22,7 @@ I am a passionate **Data Analyst & Machine Learning Enthusiast** with hands-on e
 - 🎯 Actively seeking **Data Analyst / Junior Data Scientist roles**
  
 ---
-
+ 
 ## 🛠️ Tech Stack
 
 ### Programming & Data
