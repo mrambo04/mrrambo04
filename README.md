@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Turning+Data+into+Insights;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Building+End-to-End+Data+Projects" />
 </p> 
-  
+   
 ---       
    
 ## 👨‍💻 About Me  
